@@ -80,7 +80,7 @@
 
 *Рисунок 3. Декомпозиция завтрака*
 
-![](Juliet021 / BSA00_Decomposition / img4 (3).png)
+![](Juliet021/BSA00_Decomposition/img4(3).png)
 
 **Условия:** 
 
